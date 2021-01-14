@@ -3,6 +3,8 @@
 <h2>I'm Subhayan.</h2>
 <h4>I am an amateur full stack developer and an active contributor to open source projects.<br>I love to code and am keen to do research on upcoming new technologies.</h4>
 
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.au%2Fpin%2F436286282649836765%2F&psig=AOvVaw3-IyRVOtTSjFnp0nlO1hxD&ust=1610721580417000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjvidLTm-4CFQAAAAAdAAAAABAD" width="350" height="240" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and working on web software projects and research work.
