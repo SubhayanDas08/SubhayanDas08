@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Subhayan.</h2>
+<h6>I am an amateur full stack developer and an active contributor to open source projects. I love to code and am keen to do research on upcoming new technologies.</h6>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
