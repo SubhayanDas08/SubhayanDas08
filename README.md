@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Subhayan.</h2>
-<h4>I am an amateur full stack developer and an active contributor to open source projects.<br>I love to code and am keen to do research on upcoming new technologies.</h4>
+<h4>I am an amateur backend developer and an active contributor to open source projects.<br>I love to code and am keen to do research on upcoming new technologies.</h4>
 
 <img align="right" alt="GIF" src="https://github.com/SubhayanDas08/WebDev_Basics/blob/main/Motion.gif" width="350" height="240" />
 
