@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and working on web software projects and research work.
 - 🎓 &nbsp; Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
-- 💼 &nbsp; Working as a Web Developer at Microsoft Student Ambassador Community KIIT.
+- 💼 &nbsp; Working as a Web Developer at Microsoft Student Ambassadors' Community KIIT.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - 📚 &nbsp; Learning new things, self driven, hard working and friendly.😃
 - ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles.
