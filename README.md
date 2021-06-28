@@ -3,9 +3,8 @@
 <h2>I'm Subhayan.</h2>
 <h4>I am a backend developer and an active contributor to open source projects.<br>I love to code and am keen to do research on upcoming new technologies.</h4>
 
-<!-- <img align="right" alt="GIF" src="https://github.com/SubhayanDas08/WebDev_Basics/blob/main/Motion.gif" width="350" height="240" /> -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_gssu2dkm.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<!-- <img align="right" alt="GIF" src="https://github.com/SubhayanDas08/WebDev_Basics/blob/main/coding.gif" width="350" height="240" /> -->
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
