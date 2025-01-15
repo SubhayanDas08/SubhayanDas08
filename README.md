@@ -13,7 +13,6 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - 📚 &nbsp; Learning new things, self driven, hard working and friendly.😃
 - ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles.
-- 🔌 &nbsp; **My GOAL: is to work as a R&D Engineer in a leading Tech company in California**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
